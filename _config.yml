@@ -7,8 +7,8 @@ permalink:           pretty
 # Setup
 title:               Web Dev To Be
 tagline:             'Andrzej Brandt'
-description:         'Hello! I\'m" Andrzej Brandt and this blog documents a way of becoming Ruby Developer'
-url:                 http://lanyon.getpoole.com
+description:         'Hello! I\'m Andrzej Brandt and this blog documents a way of becoming Ruby Developer'
+url:                 http://anbrandt.github.io/blog
 baseurl:             '/blog'
 paginate:            5
 
